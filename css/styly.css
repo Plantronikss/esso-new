@@ -7,9 +7,17 @@
 }
 
 @font-face {
-  font-family: 'CALIBRI';
+  font-family: 'CALIBRIB';
   src: url('../fonts/CALIBRIB.eot');
   src: local('☺'), url('../fonts/CALIBRIB.woff') format('woff'), url('../fonts/CALIBRIB.ttf') format('truetype'), url('../fonts/CALIBRIB.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'calibri';
+  src: url('../fonts/calibri.eot');
+  src: local('☺'), url('../fonts/calibri.woff') format('woff'), url('../fonts/calibri.ttf') format('truetype'), url('../fonts/calibri.svg') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -106,7 +114,7 @@ justify-content: center;
 }
 
 .btn a {
-font-family: Open Sans;
+font-family: calibri;
 font-style: normal;
 font-weight: 600;
 font-size: 18px;
@@ -206,7 +214,7 @@ width: 160px;
 height: 40px;
 left: 614px;
 top: 153px;
-font-family: Calibri;
+font-family: calibri;
 font-style: normal;
 font-weight: 600;
 font-size: 16px;
@@ -236,7 +244,7 @@ width: 111px;
 height: 40px;
 left: 834px;
 top: 153px;
-font-family: Calibri;
+font-family: calibri;
 font-style: normal;
 font-weight: 600;
 font-size: 16px;
@@ -266,7 +274,7 @@ width: 88px;
 height: 40px;
 left: 1028px;
 top: 153px;
-font-family: Calibri;
+font-family: calibri;
 font-style: normal;
 font-weight: 600;
 font-size: 16px;
@@ -376,7 +384,7 @@ left: 26px;
 top: 18px;
 
 
-font-family: Calibri;
+font-family: calibri;
 font-style: normal;
 font-weight: normal;
 font-size: 18px;
@@ -401,7 +409,7 @@ background-color: #2a3344;
 }
 
 .btn2 a {
-font-family: Open Sans;
+font-family: calibri;
 font-style: normal;
 font-weight: 600;
 font-size: 18px;
@@ -432,7 +440,7 @@ ul.menu li {
 }
 
 ul.menu li a {
-  font-family: 'CALIBRI';
+  font-family: 'calibri';
   font-style: normal;
   font-weight: 400;
   font-size: 16px;  
