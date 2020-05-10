@@ -6,13 +6,6 @@
   font-style: normal;
 }
 
-@font-face {
-  font-family: 'CALIBRIB';
-  src: url('../fonts/CALIBRIB.eot');
-  src: local('☺'), url('../fonts/CALIBRIB.woff') format('woff'), url('../fonts/CALIBRIB.ttf') format('truetype'), url('../fonts/CALIBRIB.svg') format('svg');
-  font-weight: normal;
-  font-style: normal;
-}
 
 @font-face {
   font-family: 'calibri';
